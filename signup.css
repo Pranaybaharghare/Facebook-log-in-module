@@ -1,0 +1,88 @@
+body{
+    background-color: #f7f7f7;
+}
+fieldset{
+    border-radius: 20px;
+    margin-left: 35%;
+margin-top: -0.6%;
+    box-shadow: 0px 0px 0px 4px black ;
+}
+img{
+    width: 17%;
+    margin-left: 41.5%;
+}
+p{
+    font-size: 16.5px;
+    margin-left: 4px;
+}
+hr{
+    width: 68%;
+    border: 1px solid  black;
+}
+.set{
+    width: 30%;
+    border: 1px solid black;
+    padding-left: 45px;
+    padding-top: 45px;
+    padding-bottom: 40px;
+}
+.fname{
+    margin-right: 32.7px;
+    margin-bottom: 7px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+.email{
+    width: 410px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+.dob{
+    margin-top: 7px;
+}
+.date{
+    border: 1px solid black;
+    width: 28.8%;
+    height: 40px;
+    border-radius: 6px;
+   
+}
+.female{
+height: 40px;
+width: 120px;
+border: 1px solid black;
+border-radius: 6px;
+display: inline-block;
+margin-right:20px ;
+text-align: center;
+font-size: 19px;
+font-family: 'Lato', sans-serif;
+}
+.male{
+height: 40px;
+width: 120px;
+border: 1px solid black;
+border-radius: 6px;
+display: inline-block;
+margin-right:20px ;
+text-align: center;
+font-size: 19px;
+font-family: 'Lato', sans-serif;
+}
+.submit{
+    margin-left: 26.5%;
+    margin-top: 25px;
+    width: 35%;
+    height: 40px;
+    border-radius: 6px;
+    background-color: #32cd32 ;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 19px;
+    letter-spacing: 0.5px;
+    color: white;
+}

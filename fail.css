@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body{
+	    background-color: #fff;
+	    text-align: center;
+}
+h1{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-weight:700;
+	font-size: 40px
+}

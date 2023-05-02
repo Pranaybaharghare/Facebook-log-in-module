@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    
+}
+.meta{
+    width: 5%;
+    position: relative;
+    top: -460px;
+    left: 7%;
+    z-index: +1;
+}
+
+.navbar{
+    position: relative;
+    top: -500px;
+    left: 65%;
+    margin-left: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: black;
+}
+a:link { text-decoration: none; }
+.navbar:hover{
+    color: #1877f2 ;
+}
+img{
+    width: 60%;
+    position: relative;
+    top: 210px;
+    right: 150px;
+    border-radius: 15px;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+    position: absolute;
+    top: 17.8%;
+    left: 38%;
+}
+div{
+	position: absolute;
+	top: -20px;
+}
